@@ -2,4 +2,4 @@
 
 gogolevsd@nspk.ru
 
-https://github.com/MuTalKing/qaOtus
+https://github.com/MuTalKing/QA_Otus_HW09
